@@ -1,0 +1,4 @@
+put server/* server
+put client/* client
+put rerun.tcsh
+bye
