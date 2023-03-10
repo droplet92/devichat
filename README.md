@@ -1,4 +1,6 @@
 # devichat
+![image](https://raw.githubusercontent.com/droplet92/devichat/master/2020-07-15-20-50-47.png)
+
 simple chat server for Windows/Linux/FreeBSD
 
 Usage
